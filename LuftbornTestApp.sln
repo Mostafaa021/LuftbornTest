@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Luftborn.Api", "Luftborn.Api\Luftborn.Api.csproj", "{6E11948E-2F1E-488A-8156-2611EA172249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Luftborn.Application", "Luftborn.Application\Luftborn.Application.csproj", "{A5292137-17B4-4B85-B6FB-A7223DE3C568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Luftborn.Core", "Luftborn.Core\Luftborn.Core.csproj", "{7FF361CC-F323-4D1A-A4F7-CD850A9F27A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Luftborn.Infrastructure", "Luftborn.Infrastructure\Luftborn.Infrastructure.csproj", "{1BC22FF5-C2A8-4BF0-8E84-809471859146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E11948E-2F1E-488A-8156-2611EA172249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E11948E-2F1E-488A-8156-2611EA172249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E11948E-2F1E-488A-8156-2611EA172249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E11948E-2F1E-488A-8156-2611EA172249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5292137-17B4-4B85-B6FB-A7223DE3C568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5292137-17B4-4B85-B6FB-A7223DE3C568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5292137-17B4-4B85-B6FB-A7223DE3C568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5292137-17B4-4B85-B6FB-A7223DE3C568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FF361CC-F323-4D1A-A4F7-CD850A9F27A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF361CC-F323-4D1A-A4F7-CD850A9F27A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF361CC-F323-4D1A-A4F7-CD850A9F27A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF361CC-F323-4D1A-A4F7-CD850A9F27A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BC22FF5-C2A8-4BF0-8E84-809471859146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC22FF5-C2A8-4BF0-8E84-809471859146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC22FF5-C2A8-4BF0-8E84-809471859146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC22FF5-C2A8-4BF0-8E84-809471859146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
